@@ -25,20 +25,22 @@ https://github.com/mccdaq/daqhats
 https://mccdaq.github.io/daqhats/install.html
 
 
--> as sudo:
-apt update
-apt full-upgrade
-apt install git
-->as User:
+-> as sudo:  
+apt update  
+apt full-upgrade  
+apt install git  
+
+->as User:  
 git clone https://github.com/mccdaq/daqhats.git
--> again as sudo:
-cd daqhats/
+
+-> again as sudo:  
+cd daqhats/  
 ./install.sh
 
--> further required drivers:
-apt install python3-pip
-apt install python3-plotly python3-pandas
-pip3 install dash
+-> further required drivers:  
+apt install python3-pip  
+apt install python3-plotly python3-pandas  
+pip3 install dash  
 
 
 -> check installation:  
