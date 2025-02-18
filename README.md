@@ -2,7 +2,9 @@
 
 ### Programs for Measurements and Data Applications
 
-Four different applications are described with a Raspberry Pi (RasPi) as a possible solution to enable a FAIR (Findable, Accessible, Interoperable, Reusable) data management. All RasPis are running a Raspian operating system, but they differ in the additionally installed software, depending on the used hardware.
+The background of this repo is the usage of hardware, for instance legacy devices, runnin old controller or computer with outdated operating system that lacks a secure internet connection. These devices are still fully usable, but their data cannot be upploaded because of the missing internet connection.
+
+To resolve this kind of problems, four different applications are described based on a Raspberry Pi (RasPi) single board computer as a fast and cheap solution to enable a FAIR (Findable, Accessible, Interoperable, Reusable) data management. All RasPis are running a Raspian operating system, but they differ in the additionally installed software, depending on the used hardware.
 
 It starts with a CO<sub>2</sub> standalone measurement device as a general example for the development of an entire internet accessible measurement system.
 
