@@ -6,7 +6,7 @@ For this task, any RasPi hardware is suitable. No extra hardware or shield is us
  <img source="https://github.com/Leibniz-IWT/Raspberry-Pi-FAIRification/tree/main/04_Gateway4ELNs/USB2Ethernet-Adapter.png" alt="USB-to-Ethernet Adapter"  width="200"/>
 -->
 
-![USB-to-Ethernet Adapter](https://github.com/Leibniz-IWT/Raspberry-Pi-FAIRification/tree/main/04_Gateway4ELNs/USB2Ethernet-Adapter.png)
+![USB-to-Ethernet Adapter](https://github.com/Leibniz-IWT/Raspberry-Pi-FAIRification/blob/main/04_Gateway4ELNs/USB2Ethernet-Adapter.png)
 
 For the control of the RasPi, a terminal switch can be used with some cables to connect the RasPi with keyboard, mouse and monitor of the existing computer. These computers are usually operated with an older and now unsupported operating systems, mostly Windows XP or 7.
 
