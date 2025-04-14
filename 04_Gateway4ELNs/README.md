@@ -2,7 +2,7 @@
 
 For this task, any RasPi hardware is suitable. No extra hardware or shield is used, but a USB-to-ethernet converter is required for the second network, shown here:
 
- <img source="USB2Ethernet-Adapter.jpg" alt="USB-to-Ethernet Adapter"  width="200"/>
+ <img source="./USB2Ethernet-Adapter.jpg" alt="USB-to-Ethernet Adapter"  width="200"/>
 
 
 For the control of the RasPi, a terminal switch can be used with some cables to connect the RasPi with keyboard, mouse and monitor of the existing computer. These computers are usually operated with an older and now unsupported operating systems, mostly Windows XP or 7.
