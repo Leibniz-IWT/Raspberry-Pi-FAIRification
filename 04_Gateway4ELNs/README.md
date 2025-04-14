@@ -3,7 +3,7 @@
 For this task, any RasPi hardware is suitable. No extra hardware or shield is used, but a USB-to-ethernet converter is required for the second network, shown here:
 
 
- <img source="https://github.com/Leibniz-IWT/Raspberry-Pi-FAIRification/blob/main/04_Gateway4ELNs/USB2Ethernet-Adapter.png" alt="USB-to-Ethernet Adapter"  width="200"/>
+ <img source="https://github.com/Leibniz-IWT/Raspberry-Pi-FAIRification/blob/main/04_Gateway4ELNs/USB2Ethernet-Adapter.png" alt="USB-to-Ethernet Adapter"  width="200">
 
 <!---
 ![USB-to-Ethernet Adapter](https://github.com/Leibniz-IWT/Raspberry-Pi-FAIRification/blob/main/04_Gateway4ELNs/USB2Ethernet-Adapter.png)
