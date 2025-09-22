@@ -13,3 +13,5 @@ The second application is suitable for older legacy devices which lack internet 
 A different touchpad is used for the third example, mounted in an own box, with a similar configuration as in the second case. 
 
 The last example is the most simple one. It requires only a USB-ethernet converter to connect to vulnerable measurement and process computers with outdated operating systems. Then, data from these computers can be directly  uploaded to electronic laboratory notebooks or other data management system.
+
+All these applications are explained in more detail in the paper [FAIRification of Legacy Devices and Measurement Applications with Single Board Computers](https://link.springer.com/article/10.1007/s40192-025-00398-2) and promoted by the journal editor Taylor Sparks in [this video](https://www.youtube.com/watch?v=LsobJSKk37I).
